@@ -18,6 +18,12 @@ I am studying computer science at Haute École Arc Neuchâtel, in 🇨🇭 Switz
 * 📚 School Email: [liviu-andrei.arsenescu@he-arc.ch]
 * 📸 Instagram: [Follow me](https://www.instagram.com/liviuarsenescu/)
 
+Languages I speak:
+
+* 🇷🇴 Romanian
+* 🇬🇧 English
+* 🇫🇷 French
+
 # 🤝 Contributing
 
 Contributions and feedback are always welcome! Feel free to open an issue or submit a pull request for any improvements you'd like to see.
