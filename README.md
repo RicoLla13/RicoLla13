@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm a computer science student from 🇷🇴 Romania. Here, you'll find a collection of projects, ranging from config files to school and personal projects. Feel free to explore and contribute! 
 
-# 🌱 I'm Currently Learning
+## 🌱 I'm Currently Learning
 
 I am studying computer science at Haute École Arc Neuchâtel, in 🇨🇭 Switzerland. Some of the topics I'm diving into include:
 
@@ -12,7 +12,7 @@ I am studying computer science at Haute École Arc Neuchâtel, in 🇨🇭 Switz
 * Maths and Physics 🧮🔬
 * Web development 🌐
 
-# 📫 Get in Touch
+## 📫 Get in Touch
 
 * 📧 Personal Email: [liviuarsenescu@gmail.com]
 * 📚 School Email: [liviu-andrei.arsenescu@he-arc.ch]
@@ -24,11 +24,11 @@ Languages I speak:
 * 🇬🇧 English
 * 🇫🇷 French
 
-# 🤝 Contributing
+## 🤝 Contributing
 
 Contributions and feedback are always welcome! Feel free to open an issue or submit a pull request for any improvements you'd like to see.
 
-# ❤️ Support Me
+## ❤️ Support Me
 
 If you find my work helpful or inspiring, you can support me by:
 
